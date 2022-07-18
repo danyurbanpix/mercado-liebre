@@ -1,0 +1,51 @@
+.barra{
+    color: blue;
+    font-size: 20px;
+}
+
+ a {
+    text-decoration: none;
+ }  
+
+ ul {
+    list-style-type: none;
+ }
+ body {
+    background-color: #EAC926;
+ }
+ #logo {
+    width: 400px;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+ }
+ .titulares {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 24px;
+
+ }
+ input{
+    width: 400px;
+    height: 30px;
+    margin-left: 100px;
+ }
+.icono{
+   font-size: 2em;
+   margin-bottom: 10px;
+}
+.footer{
+text-align: center;
+}
+h3{
+   font-size: 24px;
+}
+.textofooter{
+   font-size: 12px;
+}
+.precio{
+   font-size: 18px;
+}
+.dd{
+   font-size: 16px;
+}
